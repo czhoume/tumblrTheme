@@ -539,18 +539,18 @@ body.is-scrolling #posts * {
 
 .header-image-wrapper {
     position: relative;
-    height: 350px;
+    height: 780px;
     overflow: hidden;
     -webkit-transform: translate3d(0,0,0);
     -o-transform: translate3d(0, 0, 0);
     -ms-transform: translate3d(0, 0, 0);
     -moz-transform: translate3d(0, 0, 0);
     transform: translate3d(0, 0, 0);
-    -webkit-transition: height 0.25s linear;
-    -o-transition: height 0.25s linear;
-    -ms-transition: height 0.25s linear;
-    -moz-transition: height 0.25s linear;
-    transition: height 0.25s linear;
+    -webkit-transition: height 0.5s linear;
+    -o-transition: height 0.5s linear;
+    -ms-transition: height 0.5s linear;
+    -moz-transition: height 0.5s linear;
+    transition: height 0.5s linear;
 }
 
 .iframe .header-image-wrapper {
